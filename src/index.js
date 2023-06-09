@@ -7,6 +7,4 @@ const breedSelectRef = document.querySelector('.breed-select');
 const catInfoRef = document.querySelector('.cat-info');
 const loaderRef = document.querySelector('.loader');
 
-loaderRef.classList.add('hidden');
-catInfoRef.classList.add('hidden');
 let breedId = '';
